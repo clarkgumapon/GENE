@@ -1,0 +1,191 @@
+{
+  "users": [
+    {
+      "name": "Demo User",
+      "email": "demo@example.com",
+      "password": "$2b$12$dPjYI5RD4NX6xZTECkv6Re6xIZUfIl0t9WGtN8oRp6W7kXOZM8yxG"
+    }
+  ],
+  "products": [
+    {
+      "name": "MacBook Pro 14-inch",
+      "description": "The most powerful MacBook Pro ever with M2 Pro chip, stunning Liquid Retina XDR display, and exceptional battery life.",
+      "price": 75990,
+      "originalPrice": 79990,
+      "discount": 5,
+      "stock": 25,
+      "category": "Laptops",
+      "images": [
+        "https://images.pexels.com/photos/303383/pexels-photo-303383.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
+      ],
+      "isNew": true,
+      "trending": true,
+      "rating": 4.8
+    },
+    {
+      "name": "iPhone 15 Pro",
+      "description": "Apple's flagship smartphone featuring the A17 Pro chip, ProMotion display with Always-On technology, and a professional camera system.",
+      "price": 69990,
+      "originalPrice": 72990,
+      "discount": 4,
+      "stock": 50,
+      "category": "Phones",
+      "images": [
+        "https://images.pexels.com/photos/1647976/pexels-photo-1647976.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
+      ],
+      "isNew": true,
+      "trending": true,
+      "rating": 4.9
+    },
+    {
+      "name": "Samsung Galaxy S24 Ultra",
+      "description": "Experience the ultimate in smartphone innovation with the Galaxy S24 Ultra, featuring an advanced camera system, S Pen integration, and AI-powered features.",
+      "price": 64990,
+      "originalPrice": 69990,
+      "discount": 7,
+      "stock": 40,
+      "category": "Phones",
+      "images": [
+        "https://images.pexels.com/photos/47261/pexels-photo-47261.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
+      ],
+      "isNew": true,
+      "trending": true,
+      "rating": 4.7
+    },
+    {
+      "name": "iPad Air",
+      "description": "Featuring the M1 chip, new all-screen design with Liquid Retina display, and support for Apple Pencil and Magic Keyboard.",
+      "price": 39990,
+      "originalPrice": 44990,
+      "discount": 11,
+      "stock": 30,
+      "category": "Tablets",
+      "images": [
+        "https://images.pexels.com/photos/1334597/pexels-photo-1334597.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
+      ],
+      "isNew": true,
+      "trending": false,
+      "rating": 4.6
+    },
+    {
+      "name": "Dell XPS 15",
+      "description": "The XPS 15 combines power and beauty, with a stunning 4K display, powerful Intel processors, and premium build quality.",
+      "price": 69990,
+      "originalPrice": 74990,
+      "discount": 7,
+      "stock": 15,
+      "category": "Laptops",
+      "images": [
+        "https://images.pexels.com/photos/7974/pexels-photo.jpg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
+      ],
+      "isNew": false,
+      "trending": true,
+      "rating": 4.5
+    },
+    {
+      "name": "AirPods Pro",
+      "description": "Active Noise Cancellation, Transparency mode, and Adaptive EQ provide an unparalleled wireless headphone experience.",
+      "price": 11990,
+      "originalPrice": 14990,
+      "discount": 20,
+      "stock": 100,
+      "category": "Accessories",
+      "images": [
+        "https://images.pexels.com/photos/3780681/pexels-photo-3780681.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
+      ],
+      "isNew": false,
+      "trending": true,
+      "rating": 4.8
+    },
+    {
+      "name": "Apple Watch Series 9",
+      "description": "The ultimate device for a healthy life with new health insights, Always-On Retina display, and ECG app.",
+      "price": 24990,
+      "originalPrice": 27990,
+      "discount": 11,
+      "stock": 45,
+      "category": "Smart Gadgets",
+      "images": [
+        "https://images.pexels.com/photos/4126790/pexels-photo-4126790.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
+      ],
+      "isNew": true,
+      "trending": true,
+      "rating": 4.7
+    },
+    {
+      "name": "Sony WH-1000XM5",
+      "description": "Industry-leading noise cancellation and exceptional sound quality in a comfortable, over-ear design.",
+      "price": 19990,
+      "originalPrice": 22990,
+      "discount": 13,
+      "stock": 30,
+      "category": "Accessories",
+      "images": [
+        "https://images.pexels.com/photos/577769/pexels-photo-577769.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
+      ],
+      "isNew": false,
+      "trending": false,
+      "rating": 4.8
+    },
+    {
+      "name": "Samsung Galaxy Tab S9",
+      "description": "A premium Android tablet with S Pen support, gorgeous AMOLED display, and powerful performance for productivity and entertainment.",
+      "price": 44990,
+      "originalPrice": 49990,
+      "discount": 10,
+      "stock": 20,
+      "category": "Tablets",
+      "images": [
+        "https://images.pexels.com/photos/4158/apple-iphone-smartphone-desk.jpg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
+      ],
+      "isNew": true,
+      "trending": false,
+      "rating": 4.5
+    },
+    {
+      "name": "Google Pixel 8 Pro",
+      "description": "Experience the best of Google with the Pixel 8 Pro, featuring a top-tier camera system, pure Android experience, and innovative AI features.",
+      "price": 57990,
+      "originalPrice": 62990,
+      "discount": 8,
+      "stock": 25,
+      "category": "Phones",
+      "images": [
+        "https://images.pexels.com/photos/699122/pexels-photo-699122.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
+      ],
+      "isNew": true,
+      "trending": false,
+      "rating": 4.6
+    },
+    {
+      "name": "LG Gram 17",
+      "description": "Exceptionally light 17-inch laptop with long battery life, Intel Core processors, and stunning display in a lightweight design.",
+      "price": 59990,
+      "originalPrice": 64990,
+      "discount": 8,
+      "stock": 15,
+      "category": "Laptops",
+      "images": [
+        "https://images.pexels.com/photos/18105/pexels-photo.jpg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
+      ],
+      "isNew": false,
+      "trending": false,
+      "rating": 4.4
+    },
+    {
+      "name": "Amazon Echo Show 10",
+      "description": "Smart display with Alexa that moves with you, featuring premium sound, a 10.1-inch HD screen, and a 13MP camera for video calls.",
+      "price": 12990,
+      "originalPrice": 15990,
+      "discount": 19,
+      "stock": 30,
+      "category": "Smart Gadgets",
+      "images": [
+        "https://images.pexels.com/photos/4790255/pexels-photo-4790255.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
+      ],
+      "isNew": false,
+      "trending": false,
+      "rating": 4.3
+    }
+  ]
+} 

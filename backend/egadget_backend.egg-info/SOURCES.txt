@@ -1,0 +1,8 @@
+README.md
+setup.py
+app/__init__.py
+egadget_backend.egg-info/PKG-INFO
+egadget_backend.egg-info/SOURCES.txt
+egadget_backend.egg-info/dependency_links.txt
+egadget_backend.egg-info/requires.txt
+egadget_backend.egg-info/top_level.txt
